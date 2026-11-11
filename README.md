@@ -48,7 +48,7 @@ Multimodal data collection with EEG, EMG and transcranial focused ultrasound (tF
 
 ### 📄 Publication
 
-- *Water quality assessment combining the OIP index with supervised machine learning, with cross-domain transfer to the RENAMECA dataset.* **Springer LNCS**, accepted.
+- *Water quality assessment combining the OIP index with supervised machine learning, with cross-domain transfer to the RENAMECA dataset.* **Springer LNCS**, published.
 
 ### 🎓 Education
 
