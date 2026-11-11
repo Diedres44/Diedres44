@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoherediac-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegoherediac)
 [![Email](https://img.shields.io/badge/Email-diherediac%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diherediac@gmail.com)
-[![Location](https://img.shields.io/badge/Sinaloa,_Mexico-remote-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Zapopan,_Jalisco-Mexico-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
